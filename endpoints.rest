@@ -1,0 +1,2 @@
+// Get professional profile info JSON
+GET http://localhost:8080/professional
